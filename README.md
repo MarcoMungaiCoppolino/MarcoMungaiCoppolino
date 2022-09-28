@@ -35,7 +35,7 @@
 </ul> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcomungaicoppolino&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcomungaicoppolino" /></p>
-
+<br> </br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marcomungaicoppolino&show_icons=true&theme=dark&locale=en" alt="marcomungaicoppolino" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=marcomungaicoppolino&theme=dark" alt="marcomungaicoppolino" /></p>
