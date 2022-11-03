@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **marcomungaicoppolino@gmail.com**
 
-- 📄 Know about me [https://www.linkedin.com/in/marco-mungai-coppolino-198874245/](https://www.linkedin.com/in/marcomungaicoppolino/)
+- 📄 Know about me [https://www.linkedin.com/in/marcomungaicoppolino/](https://www.linkedin.com/in/marcomungaicoppolino/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
