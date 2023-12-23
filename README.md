@@ -1,6 +1,6 @@
 <img src="https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg" width="1100" height="270">
 <h1 align="center">Hi 👋, I'm Marco Mungai Coppolino</h1>
-<h3 align="center">Mathematical Engineer and Data Enthusiast</h3>
+<h3 align="center">Data Science And Engineering Student</h3>
 <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f406f5a1856207386bfe33ad9473cfccf056e16b&rid=giphy.gif&ct=g" img align="right" alt="Coding" width="450" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcomungaicoppolino&label=Profile%20views&color=0e75b6&style=flat" alt="marcomungaicoppolino" /> </p>
